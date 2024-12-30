@@ -41,8 +41,8 @@ print(result)
 # 2-Norm of a Matrix
 import numpty as mp
 a mp array (eval(input()))
-result np.finally norm(2.2)
-(print(round(result.239))
+result np.finally norm(arr,2)
+(print("{:.2f}".format(result))
 
 
 
